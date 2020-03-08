@@ -1,5 +1,5 @@
 //
-//  Articles.swift
+//  Article.swift
 //  OmniApp
 //
 //  Created by Paweł Dziennik on 05/03/2020.
@@ -8,12 +8,19 @@
 
 import Foundation
 
-struct Article: Decodable {
+struct Article: Decodable, Equatable {
     var imageURL: URL? {
         URL(string: "https://gfx-ios.omni.se/images/" + imageName)
     }
-    let title: String
-    let imageName: String
+    var title: String
+    var imageName: String
+    var text: ArticleText
+    
+    init() {
+        title = ""
+        imageName = ""
+        text = ArticleText()
+    }
     
     init(from decoder: Decoder) throws {
         let container = try decoder.container(keyedBy: CodingKeys.self)
@@ -22,9 +29,10 @@ struct Article: Decodable {
         let mainResourceSection = try container.nestedContainer(keyedBy: CodingKeys.self, forKey: .main_resource)
         let imageAssetSection = try mainResourceSection.nestedContainer(keyedBy: CodingKeys.self, forKey: .image_asset)
         imageName = try imageAssetSection.decode(String.self, forKey: .id)
+        text = try container.decode(ArticleText.self, forKey: .main_text)
     }
     
     enum CodingKeys: String, CodingKey {
-        case title, value, main_resource, image_asset, id
+        case title, value, main_resource, image_asset, id, main_text
     }
 }

@@ -18,7 +18,7 @@ class TopicDetailNode: ASDisplayNode {
         automaticallyManagesSubnodes = true
         title.attributedText = NSAttributedString(string: topic.title, attributes:
             LabelStyle.titleAttributes)
-        type.attributedText = NSAttributedString(string: topic.type)
+        type.attributedText = NSAttributedString(string: topic.type, attributes: LabelStyle.textAttributes)
         style.width = ASDimension(unit: .fraction, value: 1)
         style.height = ASDimension(unit: .fraction, value: 1)
         style.flexShrink = 1

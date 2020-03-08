@@ -1,5 +1,5 @@
 //
-//  Topics.swift
+//  Topic.swift
 //  OmniApp
 //
 //  Created by Paweł Dziennik on 05/03/2020.
@@ -7,3 +7,8 @@
 //
 
 import Foundation
+
+struct Topic: Decodable, Equatable {
+    var title: String
+    var type: String
+}

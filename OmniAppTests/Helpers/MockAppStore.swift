@@ -7,3 +7,9 @@
 //
 
 import Foundation
+import ReSwift
+@testable import OmniApp
+
+class MockAppStore: Store<AppState> {
+    
+}

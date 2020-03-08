@@ -22,9 +22,9 @@ class AppRouter: StoreSubscriber {
         window.rootViewController = splitViewController
         store.subscribe(self) {
             return $0.skip {
-                $0.routingState == $1.routingState
+                $0.selectedNewsState == $1.selectedNewsState
             }.select {
-                $0.routingState
+                $0.selectedNewsState
             }
         }
     }

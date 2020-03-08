@@ -10,7 +10,8 @@ import Foundation
 import AsyncDisplayKit
 
 class NewsListNode: ASTableNode {
-
+    let refreshControl = UIRefreshControl()
+    
     init() {
         super.init(style: .plain)
         view.separatorStyle = .none
@@ -18,7 +19,7 @@ class NewsListNode: ASTableNode {
         style.width = ASDimension(unit: .fraction, value: 1)
         style.height = ASDimension(unit: .fraction, value: 1)
         style.flexShrink = 2
-        view.refreshControl = UIRefreshControl()
+        view.refreshControl = refreshControl
         view.bounces = false
     }
 }

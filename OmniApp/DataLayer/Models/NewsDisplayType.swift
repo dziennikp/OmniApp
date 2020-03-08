@@ -7,3 +7,7 @@
 //
 
 import Foundation
+
+enum NewsDisplayType {
+    case articles, topics
+}

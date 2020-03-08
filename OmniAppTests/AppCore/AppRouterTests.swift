@@ -14,7 +14,7 @@ import ReSwift
 class AppRouterTests: XCTestCase {
     var appRouter: AppRouter?
     var window = UIWindow()
-   fileprivate var appStore: MockAppStore?
+    var appStore: MockAppStore?
     
     fileprivate var splitViewController: FakeSplitViewController? {
         return window.rootViewController as? FakeSplitViewController
@@ -75,8 +75,4 @@ fileprivate class FakeSplitViewController: SplitViewController {
         showDetailsCalled = true
         node = (vc as? DetailsViewController)?.node
     }
-}
-
-fileprivate class MockAppStore: Store<AppState> {
-    
 }

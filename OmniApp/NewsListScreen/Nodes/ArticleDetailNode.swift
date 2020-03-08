@@ -12,7 +12,8 @@ import AsyncDisplayKit
 class ArticleDetailNode: ASDisplayNode {
     let title = ASTextNode()
     let text = ASTextNode()
-    
+    let isPhone = UIDevice.current.userInterfaceIdiom == .phone
+
     init(article: Article) {
         super.init()
         automaticallyManagesSubnodes = true
@@ -26,7 +27,7 @@ class ArticleDetailNode: ASDisplayNode {
     private func mainText(from articleText: ArticleText) -> NSAttributedString {
         var isFirst = true
         return articleText.paragraphs.map {
-            NSAttributedString(string: $0.text.value)
+            NSAttributedString(string: $0.text.value, attributes: LabelStyle.textAttributes)
         }.reduce(NSMutableAttributedString()) { (r, e) in
             if isFirst {
                 isFirst = false
@@ -40,10 +41,13 @@ class ArticleDetailNode: ASDisplayNode {
     
     override func layoutSpecThatFits(_ constrainedSize: ASSizeRange) -> ASLayoutSpec {
         let mainStack = ASStackLayoutSpec(direction: .vertical,
-                                          spacing: 6.0,
+                                          spacing: 10.0,
                                           justifyContent: .start,
                                           alignItems: .start,
                                           children: [title, text])
-        return ASInsetLayoutSpec(insets: UIEdgeInsets(top: view.safeAreaInsets.top, left: 0, bottom: 0, right: 0), child: mainStack)
+        var offset: CGFloat = UIApplication.shared.windows.first?.safeAreaInsets.top ?? 0
+        if isPhone { offset += 50 }
+        return ASInsetLayoutSpec(insets: UIEdgeInsets(top: offset, left: 15, bottom: 0, right: 15), child: mainStack)
     }
 }
+ 

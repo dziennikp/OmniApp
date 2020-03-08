@@ -7,3 +7,16 @@
 //
 
 import Foundation
+import XCTest
+@testable import OmniApp
+
+class NewsResponseTests: XCTestCase {
+    func testShouldCheckIfNewsResponseHasData() {
+        var news = NewsResponse.stub().setting(\.articles, to: [Article.stub()])
+        XCTAssert(news.hasData)
+        news = NewsResponse.emptyNewsResponse()
+        XCTAssertFalse(news.hasData)
+        news = NewsResponse.stub().setting(\.topics, to: [Topic.stub()])
+        XCTAssert(news.hasData)
+    }
+}

@@ -1,0 +1,2081 @@
+{
+  "articles": [
+    {
+      "article_id": "xPp41G",
+      "title": {
+        "value": "Malmö FF möter Wolfsburg i Europa League"
+      },
+      "authors": [
+        {
+          "id": "3108f54b-86a4-4067-9ae9-9ab6bb7b4231",
+          "title": "Isabella Ahmadi"
+        }
+      ],
+      "resources": [
+        {
+          "type": "Image",
+          "byline": {
+            "title": "Johan Nilsson/TT / TT NYHETSBYRÅN"
+          },
+          "caption": {
+            "value": "Malmö FF:s klack. "
+          },
+          "source_id": "sdl6MMUR-d3OtM-nh.jpg",
+          "image_asset": {
+            "id": "978f2c37-26b3-456c-b97d-a75166f7bb19",
+            "size": {
+              "width": 5457,
+              "height": 3631
+            }
+          }
+        },
+        {
+          "ref": "topic",
+          "id": "149ca765-ae1d-4fa4-9541-f086200a5bf0",
+          "title": "Europa League 19/20",
+          "type": "StoryVignette"
+        },
+        {
+          "type": "Title",
+          "text": {
+            "value": "Malmö FF möter Wolfsburg i Europa League"
+          }
+        },
+        {
+          "type": "Byline",
+          "published": "2019-12-16T12:28:48Z",
+          "authors": [
+            {
+              "id": "3108f54b-86a4-4067-9ae9-9ab6bb7b4231",
+              "title": "Isabella Ahmadi"
+            }
+          ],
+          "fallback_email": "redaktion@omni.se"
+        },
+        {
+          "type": "Text",
+          "paragraphs": [
+            {
+              "text": {
+                "value": "Malmö FF möter Wolfsburg i sextondelsfinalen i Europa League. Det står klart efter lottningen, rapporterar Sydsvenskan. "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "– Ett spännande lag att möta. Det blir något att bita tag i, säger sportchefen Daniel Andersson enligt Sportexpressen. "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Övriga lag som möts är bland annat Club Brügge–Manchester United, FC Köpenhamn–Celtic och Getafe–Ajax. "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Matcherna spelas 20 och 27 februari nästa år. "
+              },
+              "block_type": "paragraph"
+            }
+          ],
+          "vignette": {
+            "title": "Europa League 19/20",
+            "bullet_color": {
+              "red": 92,
+              "green": 142,
+              "blue": 129
+            }
+          }
+        },
+        {
+          "url": "https://www.sydsvenskan.se/2019-12-16/folj-lottningen-av-europa-leagues-16-delsfinaler",
+          "data": {
+            "canonical_url": "https://www.sydsvenskan.se/2019-12-16/folj-lottningen-av-europa-leagues-16-delsfinaler"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Sydsvenskan direktrapporterar"
+          },
+          "source": "Sydsvenskan"
+        },
+        {
+          "url": "https://www.aftonbladet.se/sportbladet/fotboll/a/qLrR0o/live-folj-europa-league-lottningen-har",
+          "data": {
+            "canonical_url": "https://www.aftonbladet.se/a/qLrR0o"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Sportbladet diektrapporterar"
+          },
+          "source": "Aftonbladet"
+        },
+        {
+          "url": "https://www.expressen.se/kvallsposten/sport/fotboll/allsvenskan/europa-league-lottas-folj-det-direkt-har/",
+          "data": {
+            "canonical_url": "https://www.expressen.se/kvallsposten/sport/fotboll/allsvenskan/europa-league-lottas-folj-det-direkt-har/"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Wolfsburg är åtta i Bundesliga"
+          },
+          "source": "Expressen"
+        },
+        {
+          "url": "https://tt.omni.se/Sports/a/b5JzgB",
+          "data": {
+            "canonical_url": "http://tt.omni.se/malmo-ff-moter-wolfsburg-i-16-delsfinalen/a/b5JzgB"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Malmö avslutar på hemmaplan"
+          },
+          "source": "TT"
+        },
+        {
+          "url": "https://www.dn.se/sport/svar-lottning-for-malmo-ff/",
+          "data": {
+            "canonical_url": "https://www.dn.se/sport/svar-lottning-for-malmo-ff/"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Malmö var tillsammans med bland annat Ajax, Arsenal, Inter och Manchester United ett av 16 lag som var seedade"
+          },
+          "source": "Dagens Nyheter"
+        },
+        {
+          "text": {
+            "value": "Sextondelsfinalerna i Europa League"
+          },
+          "type": "Subheading"
+        },
+        {
+          "type": "Text",
+          "paragraphs": [
+            {
+              "text": {
+                "value": "Wolverhampton-Espanyol "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Sporting Lissabon-Istanbul Basaksehir "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Getafe-Ajax "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Bayer Leverkusen-FC Porto "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "FC Köpenhamn-Celtic FC "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Apoel-Basel "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "CFR Cluj-Sevilla "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Olympiacos-Arsenal"
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "AZ Alkmaar-LASK"
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Club Brügge-Manchester United "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Ludogorets-Inter "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Eintracht Frankfurt-FC Salzburg "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Shjatar Donetsk-Benfica "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Wolfsburg-Malmö FF "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "AS Roma-AA Gent "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Rangers-Braga"
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Källa: Sportbladet"
+              },
+              "block_type": "paragraph"
+            }
+          ]
+        },
+        {
+          "type": "Carousel",
+          "topic": {
+            "type": "story",
+            "title": "Europa League 19/20",
+            "topic_id": "149ca765-ae1d-4fa4-9541-f086200a5bf0"
+          }
+        }
+      ],
+      "meta": {
+        "changes": {
+          "bumped": null,
+          "created": "2019-12-16T12:25:20Z",
+          "updated": "2019-12-16T13:55:34Z",
+          "published": "2019-12-16T12:28:48Z",
+          "bumped_value": false,
+          "first_published": "2019-12-16T12:28:48Z"
+        },
+        "version": 18,
+        "is_sticky": false,
+        "newsvalue": 7,
+        "is_deleted": false,
+        "is_sponsored": false,
+        "machine_tags": {
+          "gender": "none"
+        },
+        "news_lifetime": 3,
+        "custom_properties": {
+          "bump": false,
+          "sticky": "",
+          "longread": false
+        }
+      },
+      "tags": [
+        {
+          "type": "descriptor",
+          "title": "Europa League",
+          "topic_id": "bc84f195ab73ef86edc16f5a4f065f48d72482fc"
+        },
+        {
+          "type": "organization",
+          "title": "Malmö FF",
+          "topic_id": "f3efe5181686d8347a10b130591994e41b21023f"
+        },
+        {
+          "type": "organization",
+          "title": "VfL Wolfsburg",
+          "topic_id": "ceba2f379b0b06fca25f1c08b6c26a6a7697b515"
+        }
+      ],
+      "type": "Article",
+      "category": {
+        "category_id": "ea7e9c35b0ca4f36bf80cda5a55bbc68",
+        "title": "Sport",
+        "slug": "sport",
+        "large_threshold": 7,
+        "icon": {
+          "image_url": "https://storage.omni.se/category_icons/omni/icSport.png",
+          "color": {
+            "red": 34,
+            "green": 34,
+            "blue": 34
+          }
+        },
+        "color": {
+          "red": 92,
+          "green": 142,
+          "blue": 129
+        },
+        "default": 0.66
+      },
+      "changes": {
+        "published": "2019-12-16T12:28:48Z",
+        "modified": "2019-12-16T13:55:34Z"
+      },
+      "story": {
+        "type": "story",
+        "title": "Europa League 19/20",
+        "topic_id": "149ca765-ae1d-4fa4-9541-f086200a5bf0"
+      },
+      "main_text": {
+        "type": "Text",
+        "paragraphs": [
+          {
+            "text": {
+              "value": "Malmö FF möter Wolfsburg i sextondelsfinalen i Europa League. Det står klart efter lottningen, rapporterar Sydsvenskan. "
+            },
+            "block_type": "paragraph"
+          },
+          {
+            "text": {
+              "value": "– Ett spännande lag att möta. Det blir något att bita tag i, säger sportchefen Daniel Andersson enligt Sportexpressen. "
+            },
+            "block_type": "paragraph"
+          },
+          {
+            "text": {
+              "value": "Övriga lag som möts är bland annat Club Brügge–Manchester United, FC Köpenhamn–Celtic och Getafe–Ajax. "
+            },
+            "block_type": "paragraph"
+          },
+          {
+            "text": {
+              "value": "Matcherna spelas 20 och 27 februari nästa år. "
+            },
+            "block_type": "paragraph"
+          }
+        ],
+        "vignette": {
+          "title": "Europa League 19/20",
+          "bullet_color": {
+            "red": 92,
+            "green": 142,
+            "blue": 129
+          }
+        }
+      },
+      "main_resource": {
+        "type": "Image",
+        "byline": {
+          "title": "Johan Nilsson/TT / TT NYHETSBYRÅN"
+        },
+        "caption": {
+          "value": "Malmö FF:s klack. "
+        },
+        "source_id": "sdl6MMUR-d3OtM-nh.jpg",
+        "image_asset": {
+          "id": "978f2c37-26b3-456c-b97d-a75166f7bb19",
+          "size": {
+            "width": 5457,
+            "height": 3631
+          }
+        }
+      },
+      "teaser_layout": "Small",
+      "story_vignette": {
+        "ref": "topic",
+        "id": "149ca765-ae1d-4fa4-9541-f086200a5bf0",
+        "title": "Europa League 19/20"
+      }
+    },
+    {
+      "article_id": "wEAmG4",
+      "title": {
+        "value": "Källor: Amazon betalade 90 miljoner för chipteknologi"
+      },
+      "authors": [
+        {
+          "id": "",
+          "title": "Nina Latvala",
+          "newsroom": {
+            "id": "omninext",
+            "title": "Omni Next"
+          }
+        }
+      ],
+      "resources": [
+        {
+          "type": "Image",
+          "byline": {
+            "title": "ANDY TULLIS / TT / NTB Scanpix"
+          },
+          "caption": {
+            "value": "Illustrationsbild. "
+          },
+          "source_id": "sdlspcd37f3-nh.jpg",
+          "image_asset": {
+            "id": "e72f2caf-e224-45c2-8bc9-a098e0d4c4d1",
+            "size": {
+              "width": 2213,
+              "height": 2250
+            }
+          }
+        },
+        {
+          "ref": "category",
+          "id": "c3708684382b4848b740652385dc25a8",
+          "title": "Tech",
+          "type": "StoryVignette"
+        },
+        {
+          "type": "Title",
+          "text": {
+            "value": "Källor: Amazon betalade 90 miljoner för chipteknologi"
+          }
+        },
+        {
+          "type": "Byline",
+          "published": "2018-02-12T17:29:55Z",
+          "authors": [
+            {
+              "id": "",
+              "title": "Nina Latvala",
+              "newsroom": "Omni Next"
+            }
+          ],
+          "fallback_email": "redaktion@omni.se"
+        },
+        {
+          "type": "Text",
+          "paragraphs": [
+            {
+              "text": {
+                "value": "När e-handelsjätten Amazon köpte kamerabolaget Blink förra året uppgick den slutgiltiga prislappen till 90 miljoner dollar, motsvarande över 726 miljoner kronor. Det ansågs vara ett högt belopp, men det Amazon egentligen ville åt var bolagets energieffektiva chip, skriver Reuters och hänvisar till källor. "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Förhoppningen är enligt källorna att chipteknologin ska kunna användas i Amazons andra produkter, bland annat Echo-högtalarna, för att förlänga batteritiden. "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Blink, som bland annat säljer uppkopplade kameror för privat bruk, hävdar att deras chip gör att kamerorna kan leva två år på ett par AA-batterier. "
+              },
+              "block_type": "paragraph"
+            }
+          ],
+          "vignette": {
+            "title": "Tech",
+            "bullet_color": {
+              "red": 92,
+              "green": 142,
+              "blue": 129
+            }
+          }
+        },
+        {
+          "url": "https://www.reuters.com/article/us-amazon-com-m-a-chips/exclusive-amazon-paid-90-million-for-camera-makers-chip-technology-sources-idUSKBN1FW0BI?utm_campaign=trueAnthem:+Trending+Content&utm_content=5a81321204d3016b3211e2f1&utm_medium=trueAnthem&utm_source=twitter",
+          "data": {
+            "canonical_url": "https://www.reuters.com/article/us-amazon-com-m-a-chips/exclusive-amazon-paid-90-million-for-camera-makers-chip-technology-sources-idUSKBN1FW0BI"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Analytiker har hittills sett affären som ett sätt för Amazon att erbjuda säkerhetslösningar för exempelvis smarta dörrar"
+          },
+          "source": "Reuters"
+        },
+        {
+          "url": "https://www.theverge.com/circuitbreaker/2017/12/22/16810516/amazon-blink-acquisition-smart-camera-doorbell-company",
+          "data": {
+            "canonical_url": "https://www.theverge.com/circuitbreaker/2017/12/22/16810516/amazon-blink-acquisition-smart-camera-doorbell-company"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Affären, som har fått begränsad uppmärksamhet, offentliggjordes i december i fjol (22 december 2017)"
+          },
+          "source": "The Verge"
+        },
+        {
+          "type": "Webview",
+          "url": "https://omni-ad-blocket.herokuapp.com/ads?category=tech",
+          "height": 450,
+          "id": "stepstone"
+        }
+      ],
+      "meta": {
+        "source": {
+          "id": "omninext",
+          "type": "licensed",
+          "title": "Omni Next",
+          "authors": [
+            "Nina Latvala"
+          ],
+          "reference": "Onr7e3"
+        },
+        "changes": {
+          "bumped": null,
+          "created": "2018-02-12T17:29:20Z",
+          "updated": "2018-02-12T17:29:55Z",
+          "published": "2018-02-12T17:29:55Z",
+          "bumped_value": false,
+          "first_published": "2018-02-12T17:29:55Z"
+        },
+        "version": 2,
+        "is_sticky": false,
+        "newsvalue": 5,
+        "is_deleted": false,
+        "is_sponsored": false,
+        "machine_tags": {},
+        "news_lifetime": 1,
+        "custom_properties": {
+          "bump": false,
+          "sticky": ""
+        }
+      },
+      "tags": [
+        {
+          "type": "organization",
+          "title": "Amazon",
+          "topic_id": "0b4db123131594fcda7b60da7a339fdfa79de31e"
+        },
+        {
+          "type": "descriptor",
+          "title": "E-handel",
+          "topic_id": "e42484910059a0021895d6d9c440eeb1492d2bb8"
+        },
+        {
+          "type": "descriptor",
+          "title": "Data, it & högteknologi",
+          "topic_id": "2cf8256c-be54-4d13-b576-93cc9415fdcf"
+        },
+        {
+          "type": "descriptor",
+          "title": "Säkerhet & bevakning",
+          "topic_id": "7d3b52b8-9494-48e9-aab0-eea89029027e"
+        }
+      ],
+      "type": "Article",
+      "category": {
+        "category_id": "c3708684382b4848b740652385dc25a8",
+        "title": "Tech",
+        "slug": "tech",
+        "large_threshold": 8,
+        "icon": {
+          "image_url": "https://storage.omni.se/category_icons/omni/icTech.png",
+          "color": {
+            "red": 34,
+            "green": 34,
+            "blue": 34
+          }
+        },
+        "color": {
+          "red": 92,
+          "green": 142,
+          "blue": 129
+        },
+        "default": 0.66
+      },
+      "changes": {
+        "published": "2018-02-12T17:29:55Z",
+        "modified": "2018-02-12T17:29:55Z"
+      },
+      "main_text": {
+        "type": "Text",
+        "paragraphs": [
+          {
+            "text": {
+              "value": "När e-handelsjätten Amazon köpte kamerabolaget Blink förra året uppgick den slutgiltiga prislappen till 90 miljoner dollar, motsvarande över 726 miljoner kronor. Det ansågs vara ett högt belopp, men det Amazon egentligen ville åt var bolagets energieffektiva chip, skriver Reuters och hänvisar till källor. "
+            },
+            "block_type": "paragraph"
+          },
+          {
+            "text": {
+              "value": "Förhoppningen är enligt källorna att chipteknologin ska kunna användas i Amazons andra produkter, bland annat Echo-högtalarna, för att förlänga batteritiden. "
+            },
+            "block_type": "paragraph"
+          },
+          {
+            "text": {
+              "value": "Blink, som bland annat säljer uppkopplade kameror för privat bruk, hävdar att deras chip gör att kamerorna kan leva två år på ett par AA-batterier. "
+            },
+            "block_type": "paragraph"
+          }
+        ],
+        "vignette": {
+          "title": "Tech",
+          "bullet_color": {
+            "red": 92,
+            "green": 142,
+            "blue": 129
+          }
+        }
+      },
+      "main_resource": {
+        "type": "Image",
+        "byline": {
+          "title": "ANDY TULLIS / TT / NTB Scanpix"
+        },
+        "caption": {
+          "value": "Illustrationsbild. "
+        },
+        "source_id": "sdlspcd37f3-nh.jpg",
+        "image_asset": {
+          "id": "e72f2caf-e224-45c2-8bc9-a098e0d4c4d1",
+          "size": {
+            "width": 2213,
+            "height": 2250
+          }
+        }
+      },
+      "teaser_layout": "Small",
+      "story_vignette": {
+        "ref": "category",
+        "id": "c3708684382b4848b740652385dc25a8",
+        "title": "Tech"
+      }
+    },
+    {
+      "article_id": "xxbkV",
+      "title": {
+        "value": "Moody’s lämnar Finlands kreditbetyg oförändrat"
+      },
+      "authors": [
+        {
+          "id": "",
+          "title": "Andreas Victorzon",
+          "newsroom": {
+            "id": "omninext",
+            "title": "Omni Next"
+          }
+        }
+      ],
+      "resources": [
+        {
+          "type": "Image",
+          "byline": {
+            "title": "TT"
+          },
+          "caption": {
+            "value": "Finlands tidigare president Tarja Halonen. Här på hockey under OS i Vancouver 2010."
+          },
+          "source_id": "sdlsxecfeb9_NormalPreview.jpg",
+          "image_asset": {
+            "id": "7530dadd-1537-4291-93f5-bf425d3ba05b",
+            "size": {
+              "width": 1024,
+              "height": 651
+            }
+          }
+        },
+        {
+          "ref": "category",
+          "id": "38e9c8064a9b42ee894fd7da5867e8f7",
+          "title": "Ekonomi",
+          "type": "StoryVignette"
+        },
+        {
+          "type": "Title",
+          "text": {
+            "value": "Moody’s lämnar Finlands kreditbetyg oförändrat"
+          }
+        },
+        {
+          "type": "Byline",
+          "published": "2017-10-29T23:19:34Z",
+          "authors": [
+            {
+              "id": "",
+              "title": "Andreas Victorzon",
+              "newsroom": "Omni Next"
+            }
+          ],
+          "fallback_email": "redaktion@omni.se"
+        },
+        {
+          "type": "Text",
+          "paragraphs": [
+            {
+              "text": {
+                "value": "Moody’s gör ingen förändring i sin bedömning av Finlands kreditvärdighet, skriver TT. Förra året sänkte kreditvärderingsinstitutet betyget från Aaa till Aa1."
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Kreditvärderingsinstituten Standard & Poor’s och Fitch har också petat ner Finland från högsta möjliga omdöme till det näst bästa: AA+."
+              },
+              "block_type": "paragraph"
+            }
+          ],
+          "vignette": {
+            "title": "Ekonomi",
+            "bullet_color": {
+              "red": 92,
+              "green": 142,
+              "blue": 129
+            }
+          }
+        },
+        {
+          "url": "http://tt.omni.se/5807f2c7f51afb1be3d2452c11d5a1672d719758",
+          "data": {
+            "canonical_url": "http://tt.omni.se/5807f2c7f51afb1be3d2452c11d5a1672d719758"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Standard & Poor’s sänkte finska betyget 2014 – Fitch och Moody’s förra året"
+          },
+          "source": "TT"
+        },
+        {
+          "text": {
+            "value": "Tidigare i ämnet"
+          },
+          "type": "Subheading"
+        },
+        {
+          "url": "https://www.moodys.com/research/Moodys-Finlands-credit-profile-supported-by-effective-institutions-growth-and--PR_368493",
+          "data": {
+            "canonical_url": "https://www.moodys.com/research/Moodys-Finlands-credit-profile-supported-by-effective-institutions-growth-and--PR_368493"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Finlands betyg motiveras av tillväxt, stram finanspolitik och effektiva institutioner (21 juni)"
+          },
+          "source": "www.moodys.com"
+        }
+      ],
+      "meta": {
+        "source": {
+          "id": "omninext",
+          "type": "licensed",
+          "title": "Omni Next",
+          "authors": [
+            "Andreas Victorzon"
+          ],
+          "reference": "P6e80"
+        },
+        "changes": {
+          "bumped": null,
+          "created": "2017-10-29T23:19:30Z",
+          "updated": "2017-10-29T23:19:34Z",
+          "published": "2017-10-29T23:19:34Z",
+          "bumped_value": false,
+          "first_published": "2017-10-29T23:19:34Z"
+        },
+        "version": 2,
+        "is_sticky": false,
+        "newsvalue": 1,
+        "is_deleted": false,
+        "is_sponsored": false,
+        "machine_tags": {},
+        "news_lifetime": 2,
+        "custom_properties": {
+          "bump": false,
+          "sticky": ""
+        }
+      },
+      "tags": [
+        {
+          "type": "organization",
+          "title": "Standard & Poor's",
+          "topic_id": "418ec893e9d452273977d604ceb9485da9904a13"
+        },
+        {
+          "type": "organization",
+          "title": "Moody’s",
+          "topic_id": "d7bd8c151b7a8223b9588b9be830d8b8a7711597"
+        },
+        {
+          "type": "organization",
+          "title": "Fitch",
+          "topic_id": "4cf09823-900f-44ba-818f-3bd99c322075"
+        },
+        {
+          "type": "descriptor",
+          "title": "Makroekonomi",
+          "topic_id": "21ffb6c80b98f6268c92ccaf21930a14a515018e"
+        },
+        {
+          "type": "location",
+          "title": "Finland",
+          "topic_id": "9b05cf51918a326ed828bc2d6cf9a3e1e58bea5c"
+        },
+        {
+          "type": "location",
+          "title": "Europa",
+          "topic_id": "91b75d2efee2c7df812ee2b4f65db848d6f003d9"
+        }
+      ],
+      "type": "Article",
+      "category": {
+        "category_id": "38e9c8064a9b42ee894fd7da5867e8f7",
+        "title": "Ekonomi",
+        "slug": "ekonomi",
+        "large_threshold": 7,
+        "icon": {
+          "image_url": "https://storage.omni.se/category_icons/omni/icEkonomi.png",
+          "color": {
+            "red": 34,
+            "green": 34,
+            "blue": 34
+          }
+        },
+        "color": {
+          "red": 92,
+          "green": 142,
+          "blue": 129
+        },
+        "default": 0.66
+      },
+      "changes": {
+        "published": "2017-10-29T23:19:34Z",
+        "modified": "2017-10-29T23:19:34Z"
+      },
+      "main_text": {
+        "type": "Text",
+        "paragraphs": [
+          {
+            "text": {
+              "value": "Moody’s gör ingen förändring i sin bedömning av Finlands kreditvärdighet, skriver TT. Förra året sänkte kreditvärderingsinstitutet betyget från Aaa till Aa1."
+            },
+            "block_type": "paragraph"
+          },
+          {
+            "text": {
+              "value": "Kreditvärderingsinstituten Standard & Poor’s och Fitch har också petat ner Finland från högsta möjliga omdöme till det näst bästa: AA+."
+            },
+            "block_type": "paragraph"
+          }
+        ],
+        "vignette": {
+          "title": "Ekonomi",
+          "bullet_color": {
+            "red": 92,
+            "green": 142,
+            "blue": 129
+          }
+        }
+      },
+      "main_resource": {
+        "type": "Image",
+        "byline": {
+          "title": "TT"
+        },
+        "caption": {
+          "value": "Finlands tidigare president Tarja Halonen. Här på hockey under OS i Vancouver 2010."
+        },
+        "source_id": "sdlsxecfeb9_NormalPreview.jpg",
+        "image_asset": {
+          "id": "7530dadd-1537-4291-93f5-bf425d3ba05b",
+          "size": {
+            "width": 1024,
+            "height": 651
+          }
+        }
+      },
+      "teaser_layout": "Small",
+      "story_vignette": {
+        "ref": "category",
+        "id": "38e9c8064a9b42ee894fd7da5867e8f7",
+        "title": "Ekonomi"
+      }
+    },
+    {
+      "article_id": "vaqqm",
+      "title": {
+        "value": "S&P sänker Kinas kreditbetyg"
+      },
+      "authors": [
+        {
+          "id": "906db939-eb19-446f-8cae-1f0656e37910",
+          "image": "707368e1-0250-4be5-b8f3-094a331b05c9",
+          "title": "Tomas Medin Westman",
+          "contacts": [
+            {
+              "type": "twitter",
+              "value": "tomas_medin"
+            },
+            {
+              "type": "email",
+              "value": "tomas@omni.se"
+            },
+            {
+              "type": "other",
+              "value": "+46701622652"
+            }
+          ]
+        },
+        {
+          "id": "",
+          "title": "Tomas Medin Westman",
+          "newsroom": {
+            "id": "omninext",
+            "title": "Omni Next"
+          }
+        }
+      ],
+      "resources": [
+        {
+          "type": "Image",
+          "byline": {
+            "title": "Thomas Peter / TT NYHETSBYRÅN"
+          },
+          "source_id": "CHINA-ECONOMY_299636.jpg",
+          "image_asset": {
+            "id": "bbbf4353-8144-4809-945e-75648d79edb7",
+            "size": {
+              "width": 5760,
+              "height": 2880
+            }
+          },
+          "characteristics": {
+            "figure": false,
+            "sensitive": false
+          }
+        },
+        {
+          "ref": "topic",
+          "id": "84c6dd5d-6c79-4b2b-8510-f57fe2d83ce9",
+          "title": "Kinas tillväxt",
+          "type": "StoryVignette"
+        },
+        {
+          "type": "Title",
+          "text": {
+            "value": "S&P sänker Kinas kreditbetyg"
+          }
+        },
+        {
+          "type": "Byline",
+          "published": "2017-09-21T18:54:32Z",
+          "authors": [
+            {
+              "id": "906db939-eb19-446f-8cae-1f0656e37910",
+              "title": "Tomas Medin Westman"
+            },
+            {
+              "id": "",
+              "title": "Tomas Medin Westman",
+              "newsroom": "Omni Next"
+            }
+          ],
+          "fallback_email": "redaktion@omni.se"
+        },
+        {
+          "type": "Text",
+          "paragraphs": [
+            {
+              "text": {
+                "value": "Kina får sänkt kreditbetyg av S&P Global, som hänvisar till ökade ekonomiska och finansiella risker efter en lång period med kraftig kredittillväxt, skriver Financial Times. Betyget ändras till A+, från tidigare AA-. "
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "Det innebär att S&P nu ligger på samma betyg som de två konkurrerande kreditvärderingsinstituten Moody's och Fitch. När Moody's sänkte sitt betyg i maj följdes beslutet av kritik från Kina som ansåg att Moody's överskattar riskerna i den kinesiska ekonomin."
+              },
+              "block_type": "paragraph"
+            }
+          ],
+          "vignette": {
+            "title": "Kinas tillväxt",
+            "bullet_color": {
+              "red": 92,
+              "green": 142,
+              "blue": 129
+            }
+          }
+        },
+        {
+          "url": "http://tt.omni.se/25657933a9b7b43a11a234ad0eacd46074d8ea97",
+          "data": {
+            "canonical_url": "http://tt.omni.se/25657933a9b7b43a11a234ad0eacd46074d8ea97"
+          },
+          "type": "Url",
+          "title": {
+            "value": "S&P sänker Kina-betyg"
+          },
+          "source": "TT"
+        },
+        {
+          "type": "Carousel",
+          "topic": {
+            "type": "story",
+            "title": "Kinas tillväxt",
+            "topic_id": "84c6dd5d-6c79-4b2b-8510-f57fe2d83ce9"
+          }
+        }
+      ],
+      "meta": {
+        "changes": {
+          "bumped": null,
+          "created": "2017-09-21T18:54:07Z",
+          "updated": "2017-09-21T18:54:32Z",
+          "published": "2017-09-21T18:54:32Z",
+          "bumped_value": false,
+          "first_published": "2017-09-21T18:54:32Z"
+        },
+        "version": 2,
+        "is_sticky": false,
+        "newsvalue": 3,
+        "is_deleted": false,
+        "is_sponsored": false,
+        "machine_tags": {},
+        "news_lifetime": 1,
+        "custom_properties": {
+          "bump": false,
+          "sticky": ""
+        }
+      },
+      "tags": [
+        {
+          "type": "location",
+          "title": "Kina",
+          "topic_id": "350bd4e62c0927bdcd0419853c6b238d8875e50d"
+        },
+        {
+          "type": "location",
+          "title": "Asien",
+          "topic_id": "9d981aa7f2e3b35ca1f32210f0e2e5ab4c7b31f4"
+        },
+        {
+          "type": "descriptor",
+          "title": "Makroekonomi",
+          "topic_id": "21ffb6c80b98f6268c92ccaf21930a14a515018e"
+        }
+      ],
+      "type": "Article",
+      "category": {
+        "category_id": "38e9c8064a9b42ee894fd7da5867e8f7",
+        "title": "Ekonomi",
+        "slug": "ekonomi",
+        "large_threshold": 7,
+        "icon": {
+          "image_url": "https://storage.omni.se/category_icons/omni/icEkonomi.png",
+          "color": {
+            "red": 34,
+            "green": 34,
+            "blue": 34
+          }
+        },
+        "color": {
+          "red": 92,
+          "green": 142,
+          "blue": 129
+        },
+        "default": 0.66
+      },
+      "changes": {
+        "published": "2017-09-21T18:54:32Z",
+        "modified": "2017-09-21T18:54:32Z"
+      },
+      "story": {
+        "type": "story",
+        "title": "Kinas tillväxt",
+        "topic_id": "84c6dd5d-6c79-4b2b-8510-f57fe2d83ce9"
+      },
+      "main_text": {
+        "type": "Text",
+        "paragraphs": [
+          {
+            "text": {
+              "value": "Kina får sänkt kreditbetyg av S&P Global, som hänvisar till ökade ekonomiska och finansiella risker efter en lång period med kraftig kredittillväxt, skriver Financial Times. Betyget ändras till A+, från tidigare AA-. "
+            },
+            "block_type": "paragraph"
+          },
+          {
+            "text": {
+              "value": "Det innebär att S&P nu ligger på samma betyg som de två konkurrerande kreditvärderingsinstituten Moody's och Fitch. När Moody's sänkte sitt betyg i maj följdes beslutet av kritik från Kina som ansåg att Moody's överskattar riskerna i den kinesiska ekonomin."
+            },
+            "block_type": "paragraph"
+          }
+        ],
+        "vignette": {
+          "title": "Kinas tillväxt",
+          "bullet_color": {
+            "red": 92,
+            "green": 142,
+            "blue": 129
+          }
+        }
+      },
+      "main_resource": {
+        "type": "Image",
+        "byline": {
+          "title": "Thomas Peter / TT NYHETSBYRÅN"
+        },
+        "source_id": "CHINA-ECONOMY_299636.jpg",
+        "image_asset": {
+          "id": "bbbf4353-8144-4809-945e-75648d79edb7",
+          "size": {
+            "width": 5760,
+            "height": 2880
+          }
+        },
+        "characteristics": {
+          "figure": false,
+          "sensitive": false
+        }
+      },
+      "teaser_layout": "Small",
+      "story_vignette": {
+        "ref": "topic",
+        "id": "84c6dd5d-6c79-4b2b-8510-f57fe2d83ce9",
+        "title": "Kinas tillväxt"
+      }
+    },
+    {
+      "article_id": "XXxbE",
+      "title": {
+        "value": "Qatar får sänkt kreditbetyg "
+      },
+      "authors": [
+        {
+          "id": "4916327f-a83d-48e1-a2ef-44dc7268cbb2",
+          "title": "Robert Triches"
+        }
+      ],
+      "resources": [
+        {
+          "type": "Image",
+          "byline": {
+            "title": "STRINGER / AFP"
+          },
+          "caption": {
+            "value": "Marknaden Souq Waqif i Qatars huvudstad Doha."
+          },
+          "source_id": "QATAR-RELIGION-ISLAM-RAMA164300.jpg",
+          "image_asset": {
+            "id": "0e231e5f-c98c-472e-98a8-40acee978d80",
+            "size": {
+              "width": 5472,
+              "height": 3648
+            }
+          },
+          "characteristics": {
+            "figure": false,
+            "sensitive": false
+          }
+        },
+        {
+          "ref": "topic",
+          "id": "561a2c72-46ea-49d5-af2a-9b4329cc3af7",
+          "title": "Diplomatkrisen i Qatar",
+          "type": "StoryVignette"
+        },
+        {
+          "type": "Title",
+          "text": {
+            "value": "Qatar får sänkt kreditbetyg "
+          }
+        },
+        {
+          "type": "Byline",
+          "published": "2017-06-08T04:36:58Z",
+          "authors": [
+            {
+              "id": "4916327f-a83d-48e1-a2ef-44dc7268cbb2",
+              "title": "Robert Triches"
+            }
+          ],
+          "fallback_email": "redaktion@omni.se"
+        },
+        {
+          "type": "Text",
+          "paragraphs": [
+            {
+              "text": {
+                "value": "Standard & Poor’s sänker emiratet Qatars kreditbetyg från AA till AA-, skriver internationella medier. Anledningen är att den diplomatiska krisen mot andra arabstater riskerar att försvaga landets finanser."
+              },
+              "block_type": "paragraph"
+            }
+          ],
+          "vignette": {
+            "title": "Diplomatkrisen i Qatar",
+            "bullet_color": {
+              "red": 92,
+              "green": 142,
+              "blue": 129
+            }
+          }
+        },
+        {
+          "url": "http://www.reuters.com/article/us-gulf-qatar-downgrade-idUSKBN18Y2NH",
+          "data": {
+            "canonical_url": "http://www.reuters.com/article/us-gulf-qatar-downgrade-idUSKBN18Y2NH"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Qatars valuta rialen faller till 11-årslägsta mot dollarn"
+          },
+          "source": "Reuters"
+        },
+        {
+          "url": "http://www.di.se/nyheter/sp-sanker-qatars-kreditbetyg-negativa-utsikter/",
+          "data": {
+            "canonical_url": "http://www.di.se/nyheter/sp-sanker-qatars-kreditbetyg-negativa-utsikter/"
+          },
+          "type": "Url",
+          "title": {
+            "value": "S&P sänker Qatars kreditbetyg – negativa utsikter"
+          },
+          "source": "Dagens Industri"
+        },
+        {
+          "url": "https://www.ft.com/content/3f524835-6362-3fc5-a0d1-625447e77f64",
+          "data": {
+            "canonical_url": "https://www.ft.com/content/3f524835-6362-3fc5-a0d1-625447e77f64"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Analytiker: Om krisen blir långvarig riskerar landet att förlora utländskt riskkapital (betallänk)"
+          },
+          "source": "Financial Times"
+        },
+        {
+          "type": "Carousel",
+          "topic": {
+            "type": "story",
+            "title": "Diplomatkrisen i Qatar",
+            "topic_id": "561a2c72-46ea-49d5-af2a-9b4329cc3af7"
+          }
+        }
+      ],
+      "meta": {
+        "changes": {
+          "bumped": null,
+          "created": "2017-06-08T04:31:00Z",
+          "updated": "2017-06-08T04:36:58Z",
+          "published": "2017-06-08T04:36:58Z",
+          "bumped_value": false,
+          "first_published": "2017-06-08T04:36:58Z"
+        },
+        "version": 7,
+        "is_sticky": false,
+        "newsvalue": 4,
+        "is_deleted": false,
+        "machine_tags": {
+          "gender": "none"
+        },
+        "news_lifetime": 2,
+        "custom_properties": {
+          "bump": false,
+          "sticky": ""
+        }
+      },
+      "tags": [
+        {
+          "type": "organization",
+          "title": "Standard & Poor's",
+          "topic_id": "418ec893e9d452273977d604ceb9485da9904a13"
+        },
+        {
+          "type": "location",
+          "title": "Qatar",
+          "topic_id": "e1451d17354cc9fa816468659275c9080bad3e22"
+        },
+        {
+          "type": "location",
+          "title": "Mellanöstern",
+          "topic_id": "a1109312680163cf978d4e080e03bf22dda52704"
+        },
+        {
+          "type": "descriptor",
+          "title": "Valuta",
+          "topic_id": "eba677dc486617f8fbaa4b1f143704d9e819ec11"
+        }
+      ],
+      "type": "Article",
+      "category": {
+        "category_id": "38e9c8064a9b42ee894fd7da5867e8f7",
+        "title": "Ekonomi",
+        "slug": "ekonomi",
+        "large_threshold": 7,
+        "icon": {
+          "image_url": "https://storage.omni.se/category_icons/omni/icEkonomi.png",
+          "color": {
+            "red": 34,
+            "green": 34,
+            "blue": 34
+          }
+        },
+        "color": {
+          "red": 92,
+          "green": 142,
+          "blue": 129
+        },
+        "default": 0.66
+      },
+      "changes": {
+        "published": "2017-06-08T04:36:58Z",
+        "modified": "2017-06-08T04:36:58Z"
+      },
+      "story": {
+        "type": "story",
+        "title": "Diplomatkrisen i Qatar",
+        "topic_id": "561a2c72-46ea-49d5-af2a-9b4329cc3af7"
+      },
+      "main_text": {
+        "type": "Text",
+        "paragraphs": [
+          {
+            "text": {
+              "value": "Standard & Poor’s sänker emiratet Qatars kreditbetyg från AA till AA-, skriver internationella medier. Anledningen är att den diplomatiska krisen mot andra arabstater riskerar att försvaga landets finanser."
+            },
+            "block_type": "paragraph"
+          }
+        ],
+        "vignette": {
+          "title": "Diplomatkrisen i Qatar",
+          "bullet_color": {
+            "red": 92,
+            "green": 142,
+            "blue": 129
+          }
+        }
+      },
+      "main_resource": {
+        "type": "Image",
+        "byline": {
+          "title": "STRINGER / AFP"
+        },
+        "caption": {
+          "value": "Marknaden Souq Waqif i Qatars huvudstad Doha."
+        },
+        "source_id": "QATAR-RELIGION-ISLAM-RAMA164300.jpg",
+        "image_asset": {
+          "id": "0e231e5f-c98c-472e-98a8-40acee978d80",
+          "size": {
+            "width": 5472,
+            "height": 3648
+          }
+        },
+        "characteristics": {
+          "figure": false,
+          "sensitive": false
+        }
+      },
+      "teaser_layout": "Small",
+      "story_vignette": {
+        "ref": "topic",
+        "id": "561a2c72-46ea-49d5-af2a-9b4329cc3af7",
+        "title": "Diplomatkrisen i Qatar"
+      }
+    },
+    {
+      "article_id": "E11za",
+      "title": {
+        "value": "S&P står fast vid sitt kinesiska kreditbetyg"
+      },
+      "authors": [
+        {
+          "id": "81f4de98-fd05-4687-81f5-5357209587a6",
+          "title": "Sebastian Orre"
+        }
+      ],
+      "resources": [
+        {
+          "type": "Image",
+          "byline": {
+            "title": "AP"
+          },
+          "source_id": "Fonder.jpg",
+          "image_asset": {
+            "id": "44b4a8f9-1604-4825-8566-65340ec0ec22",
+            "size": {
+              "width": 3000,
+              "height": 1924
+            }
+          },
+          "characteristics": {
+            "figure": false,
+            "sensitive": false
+          }
+        },
+        {
+          "ref": "topic",
+          "id": "84c6dd5d-6c79-4b2b-8510-f57fe2d83ce9",
+          "title": "Kinas tillväxt",
+          "type": "StoryVignette"
+        },
+        {
+          "type": "Title",
+          "text": {
+            "value": "S&P står fast vid sitt kinesiska kreditbetyg"
+          }
+        },
+        {
+          "type": "Byline",
+          "published": "2017-05-29T08:19:46Z",
+          "authors": [
+            {
+              "id": "81f4de98-fd05-4687-81f5-5357209587a6",
+              "title": "Sebastian Orre"
+            }
+          ],
+          "fallback_email": "redaktion@omni.se"
+        },
+        {
+          "type": "Text",
+          "paragraphs": [
+            {
+              "text": {
+                "value": "Kreditvärderingsintitutet Standard & Poor’s ser inget skäl att tidigarelägga sin nästa översyn av Kinas kreditbetyg. Det trots att konkurrenten Moody’s oväntat sänkte kreditbetyget för landet förra veckan – den första nedgraderingen på nästan 30 år. Moody’s sänkning innebar ett kreditbetyg i linje med den tredje av jättarna i sektorn: Fitch. S&P ligger nu i en klass för sig när institutet står fast vid sitt betyg på AA-, skriver indiska Economic Times."
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "– Jag ser inte att något skulle motivera en extraordinär genomgång av Kina i dagsläget, så vi lär hålla oss till vårt vanliga schema, säger Kim Eng, chef för S&P:s värdering av statspapper i Asien och stillahavsområdet."
+              },
+              "block_type": "paragraph"
+            }
+          ],
+          "vignette": {
+            "title": "Kinas tillväxt",
+            "bullet_color": {
+              "red": 92,
+              "green": 142,
+              "blue": 129
+            }
+          }
+        },
+        {
+          "url": "http://economictimes.indiatimes.com/news/international/business/sp-sees-no-need-for-unscheduled-china-rating-review/articleshow/58891503.cms",
+          "data": {
+            "canonical_url": "http://economictimes.indiatimes.com/news/international/business/sp-sees-no-need-for-unscheduled-china-rating-review/articleshow/58891503.cms"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Trots att Kina nedgraderades förra veckan anses landet ha ett bra kreditbetyg hos samtliga institut"
+          },
+          "source": "economictimes.indiatimes.com"
+        },
+        {
+          "url": "https://www.bloomberg.com/gadfly/articles/2017-05-29/hong-kong-and-moody-s-are-both-wrong-on-china-contagion-risk",
+          "data": {
+            "canonical_url": "https://www.bloomberg.com/gadfly/articles/2017-05-29/hong-kong-and-moody-s-are-both-wrong-on-china-contagion-risk"
+          },
+          "type": "Url",
+          "label": "analys",
+          "title": {
+            "value": "Andy Mukherjee: Likvididtetsöverskott kastar en skugga över den kinesiska ekonomin"
+          },
+          "source": "Bloomberg"
+        },
+        {
+          "type": "Carousel",
+          "topic": {
+            "type": "story",
+            "title": "Kinas tillväxt",
+            "topic_id": "84c6dd5d-6c79-4b2b-8510-f57fe2d83ce9"
+          }
+        },
+        {
+          "type": "Webview",
+          "url": "https://omni-ad-blocket.herokuapp.com/ads?category=ekonomi",
+          "height": 450,
+          "id": "stepstone"
+        }
+      ],
+      "meta": {
+        "changes": {
+          "bumped": null,
+          "created": "2017-05-29T07:05:58Z",
+          "updated": "2017-05-29T08:28:47Z",
+          "published": "2017-05-29T08:19:46Z",
+          "bumped_value": false,
+          "first_published": "2017-05-29T08:19:46Z"
+        },
+        "version": 17,
+        "is_sticky": false,
+        "newsvalue": 5,
+        "is_deleted": false,
+        "machine_tags": {
+          "gender": "none"
+        },
+        "news_lifetime": 2,
+        "custom_properties": {
+          "bump": false,
+          "sticky": ""
+        }
+      },
+      "tags": [
+        {
+          "type": "organization",
+          "title": "Moody’s",
+          "topic_id": "d7bd8c151b7a8223b9588b9be830d8b8a7711597"
+        },
+        {
+          "type": "organization",
+          "title": "Standard & Poor's",
+          "topic_id": "418ec893e9d452273977d604ceb9485da9904a13"
+        },
+        {
+          "type": "descriptor",
+          "title": "Bank & finans",
+          "topic_id": "aaef0fc75e4dab5b6c49d61874c7f49f4f01e513"
+        },
+        {
+          "type": "location",
+          "title": "Kina",
+          "topic_id": "350bd4e62c0927bdcd0419853c6b238d8875e50d"
+        },
+        {
+          "type": "location",
+          "title": "Asien",
+          "topic_id": "9d981aa7f2e3b35ca1f32210f0e2e5ab4c7b31f4"
+        }
+      ],
+      "type": "Article",
+      "category": {
+        "category_id": "38e9c8064a9b42ee894fd7da5867e8f7",
+        "title": "Ekonomi",
+        "slug": "ekonomi",
+        "large_threshold": 7,
+        "icon": {
+          "image_url": "https://storage.omni.se/category_icons/omni/icEkonomi.png",
+          "color": {
+            "red": 34,
+            "green": 34,
+            "blue": 34
+          }
+        },
+        "color": {
+          "red": 92,
+          "green": 142,
+          "blue": 129
+        },
+        "default": 0.66
+      },
+      "changes": {
+        "published": "2017-05-29T08:19:46Z",
+        "modified": "2017-05-29T08:28:47Z"
+      },
+      "story": {
+        "type": "story",
+        "title": "Kinas tillväxt",
+        "topic_id": "84c6dd5d-6c79-4b2b-8510-f57fe2d83ce9"
+      },
+      "main_text": {
+        "type": "Text",
+        "paragraphs": [
+          {
+            "text": {
+              "value": "Kreditvärderingsintitutet Standard & Poor’s ser inget skäl att tidigarelägga sin nästa översyn av Kinas kreditbetyg. Det trots att konkurrenten Moody’s oväntat sänkte kreditbetyget för landet förra veckan – den första nedgraderingen på nästan 30 år. Moody’s sänkning innebar ett kreditbetyg i linje med den tredje av jättarna i sektorn: Fitch. S&P ligger nu i en klass för sig när institutet står fast vid sitt betyg på AA-, skriver indiska Economic Times."
+            },
+            "block_type": "paragraph"
+          },
+          {
+            "text": {
+              "value": "– Jag ser inte att något skulle motivera en extraordinär genomgång av Kina i dagsläget, så vi lär hålla oss till vårt vanliga schema, säger Kim Eng, chef för S&P:s värdering av statspapper i Asien och stillahavsområdet."
+            },
+            "block_type": "paragraph"
+          }
+        ],
+        "vignette": {
+          "title": "Kinas tillväxt",
+          "bullet_color": {
+            "red": 92,
+            "green": 142,
+            "blue": 129
+          }
+        }
+      },
+      "main_resource": {
+        "type": "Image",
+        "byline": {
+          "title": "AP"
+        },
+        "source_id": "Fonder.jpg",
+        "image_asset": {
+          "id": "44b4a8f9-1604-4825-8566-65340ec0ec22",
+          "size": {
+            "width": 3000,
+            "height": 1924
+          }
+        },
+        "characteristics": {
+          "figure": false,
+          "sensitive": false
+        }
+      },
+      "teaser_layout": "Small",
+      "story_vignette": {
+        "ref": "topic",
+        "id": "84c6dd5d-6c79-4b2b-8510-f57fe2d83ce9",
+        "title": "Kinas tillväxt"
+      }
+    },
+    {
+      "article_id": "voOKp",
+      "title": {
+        "value": "Norge efter fiaskot: Förlåt till alla tittare där hemma"
+      },
+      "authors": [
+        {
+          "id": "26eed74f-8922-4035-8585-88e5cc716c01",
+          "title": "Helena Sällström"
+        }
+      ],
+      "resources": [
+        {
+          "type": "Image",
+          "byline": {
+            "title": "LEONHARD FOEGER / TT NYHETSBYRÅN"
+          },
+          "caption": {
+            "value": "Emil Hegle Svendsen vid dagens tävlingar."
+          },
+          "source_id": "BIATHLON-WORLD_ (168).jpg",
+          "image_asset": {
+            "id": "cb3774a4-ab9c-4ddf-bd73-cdf707bf4d9a",
+            "size": {
+              "width": 3500,
+              "height": 2173
+            }
+          },
+          "characteristics": {
+            "figure": false,
+            "sensitive": false
+          }
+        },
+        {
+          "ref": "topic",
+          "id": "14e86408-81c8-48de-8fe7-594109ec2e7f",
+          "title": "Skidskytte-VM 2017",
+          "type": "StoryVignette"
+        },
+        {
+          "type": "Title",
+          "text": {
+            "value": "Norge efter fiaskot: Förlåt till alla tittare där hemma"
+          }
+        },
+        {
+          "type": "Byline",
+          "published": "2017-02-18T17:37:06Z",
+          "authors": [
+            {
+              "id": "26eed74f-8922-4035-8585-88e5cc716c01",
+              "title": "Helena Sällström"
+            }
+          ],
+          "fallback_email": "redaktion@omni.se"
+        },
+        {
+          "type": "Text",
+          "paragraphs": [
+            {
+              "text": {
+                "value": "Det blev ett nytt norskt skidskyttefiasko i herrarnas stafett i dag. OS-mästarna från förra året missade att försvara guldet och slutade åtta efter en straffrunda och åtta extraskott, skriver Sportbladet."
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "– Vi ber om ursäkt till alla som sitter hemma och tittar, säger landslagschefen Morten Aa Djupvik till NRK."
+              },
+              "block_type": "paragraph"
+            }
+          ],
+          "vignette": {
+            "title": "Skidskytte-VM 2017",
+            "bullet_color": {
+              "red": 92,
+              "green": 142,
+              "blue": 129
+            }
+          }
+        },
+        {
+          "url": "https://www.nrk.no/sport/norsk-stafettfiasko-i-vm-1.13385847",
+          "data": {
+            "canonical_url": "https://www.nrk.no/sport/norsk-stafettfiasko-i-vm-1.13385847"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Kommentator: ”En svart dag för norskt skidskytte”"
+          },
+          "source": "NRK"
+        },
+        {
+          "url": "http://www.aftonbladet.se/sportbladet/a/voO1w/stort-fiasko-av-norge-i-skidskytte-vm",
+          "data": {
+            "canonical_url": "http://www.aftonbladet.se/a/voO1w"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Första gången på 14 år som herrarna missade pallen i ett VM i stafett"
+          },
+          "source": "Aftonbladet"
+        },
+        {
+          "type": "Carousel",
+          "topic": {
+            "type": "story",
+            "title": "Skidskytte-VM 2017",
+            "topic_id": "14e86408-81c8-48de-8fe7-594109ec2e7f"
+          }
+        }
+      ],
+      "meta": {
+        "changes": {
+          "bumped": null,
+          "created": "2017-02-18T17:16:37Z",
+          "updated": "2017-02-18T17:38:13Z",
+          "published": "2017-02-18T17:37:06Z",
+          "first_published": "2017-02-18T17:37:06Z"
+        },
+        "version": 6,
+        "is_sticky": false,
+        "newsvalue": 6,
+        "is_deleted": false,
+        "machine_tags": {
+          "gender": "male"
+        },
+        "news_lifetime": 2,
+        "custom_properties": {}
+      },
+      "tags": [
+        {
+          "type": "descriptor",
+          "title": "Skidskytte",
+          "topic_id": "cf0e18617a282f790451c8c5916fd5c9892a25b7"
+        }
+      ],
+      "type": "Article",
+      "category": {
+        "category_id": "ea7e9c35b0ca4f36bf80cda5a55bbc68",
+        "title": "Sport",
+        "slug": "sport",
+        "large_threshold": 7,
+        "icon": {
+          "image_url": "https://storage.omni.se/category_icons/omni/icSport.png",
+          "color": {
+            "red": 34,
+            "green": 34,
+            "blue": 34
+          }
+        },
+        "color": {
+          "red": 92,
+          "green": 142,
+          "blue": 129
+        },
+        "default": 0.66
+      },
+      "changes": {
+        "published": "2017-02-18T17:37:06Z",
+        "modified": "2017-02-18T17:38:13Z"
+      },
+      "story": {
+        "type": "story",
+        "title": "Skidskytte-VM 2017",
+        "topic_id": "14e86408-81c8-48de-8fe7-594109ec2e7f"
+      },
+      "main_text": {
+        "type": "Text",
+        "paragraphs": [
+          {
+            "text": {
+              "value": "Det blev ett nytt norskt skidskyttefiasko i herrarnas stafett i dag. OS-mästarna från förra året missade att försvara guldet och slutade åtta efter en straffrunda och åtta extraskott, skriver Sportbladet."
+            },
+            "block_type": "paragraph"
+          },
+          {
+            "text": {
+              "value": "– Vi ber om ursäkt till alla som sitter hemma och tittar, säger landslagschefen Morten Aa Djupvik till NRK."
+            },
+            "block_type": "paragraph"
+          }
+        ],
+        "vignette": {
+          "title": "Skidskytte-VM 2017",
+          "bullet_color": {
+            "red": 92,
+            "green": 142,
+            "blue": 129
+          }
+        }
+      },
+      "main_resource": {
+        "type": "Image",
+        "byline": {
+          "title": "LEONHARD FOEGER / TT NYHETSBYRÅN"
+        },
+        "caption": {
+          "value": "Emil Hegle Svendsen vid dagens tävlingar."
+        },
+        "source_id": "BIATHLON-WORLD_ (168).jpg",
+        "image_asset": {
+          "id": "cb3774a4-ab9c-4ddf-bd73-cdf707bf4d9a",
+          "size": {
+            "width": 3500,
+            "height": 2173
+          }
+        },
+        "characteristics": {
+          "figure": false,
+          "sensitive": false
+        }
+      },
+      "teaser_layout": "Small",
+      "story_vignette": {
+        "ref": "topic",
+        "id": "14e86408-81c8-48de-8fe7-594109ec2e7f",
+        "title": "Skidskytte-VM 2017"
+      }
+    },
+    {
+      "article_id": "v2ROV",
+      "title": {
+        "value": "Fitch sänker Belgiens kreditbetyg ett steg"
+      },
+      "authors": [
+        {
+          "id": "c095d5ab-320d-4b1a-89df-6630c7d0df78",
+          "title": "Natalie Roos"
+        }
+      ],
+      "resources": [
+        {
+          "type": "Image",
+          "byline": {
+            "title": "NICOLAS MAETERLINCK / BELGA"
+          },
+          "caption": {
+            "value": "Bryssel."
+          },
+          "source_id": "BELGIUM-EU-POLITICS-ARCHI071617.jpg",
+          "image_asset": {
+            "id": "0c3ea638-1c2f-4c98-b7ff-732a6a142f8b",
+            "size": {
+              "width": 4400,
+              "height": 2933
+            }
+          },
+          "characteristics": {
+            "figure": false,
+            "sensitive": false
+          }
+        },
+        {
+          "ref": "category",
+          "id": "38e9c8064a9b42ee894fd7da5867e8f7",
+          "title": "Ekonomi",
+          "type": "StoryVignette"
+        },
+        {
+          "type": "Title",
+          "text": {
+            "value": "Fitch sänker Belgiens kreditbetyg ett steg"
+          }
+        },
+        {
+          "type": "Byline",
+          "published": "2016-12-24T05:53:05Z",
+          "authors": [
+            {
+              "id": "c095d5ab-320d-4b1a-89df-6630c7d0df78",
+              "title": "Natalie Roos"
+            }
+          ],
+          "fallback_email": "redaktion@omni.se"
+        },
+        {
+          "type": "Text",
+          "paragraphs": [
+            {
+              "text": {
+                "value": "Ratinginstitutet Fitch sänker Belgiens kreditbetyg med ett snäpp till AA-, på grund av landets statsskuld. Belgiens försök att stimulera tillväxten genom reformer, efter att den nya regeringen kom till makten 2014, har satt press på landets ekonomiska mål. Bruttoskulden kommer att uppgå till 107 procent av BNP 2016."
+              },
+              "block_type": "paragraph"
+            },
+            {
+              "text": {
+                "value": "– De ihållande problemen har lett till att omfattande minskningar av skulden först kommer att äga rum 2019, två år senare än man tidigare trott, enligt ett uttalande från Fitch."
+              },
+              "block_type": "paragraph"
+            }
+          ],
+          "vignette": {
+            "title": "Ekonomi",
+            "bullet_color": {
+              "red": 92,
+              "green": 142,
+              "blue": 129
+            }
+          }
+        },
+        {
+          "url": "http://tt.omni.se/b9f013b52bdd3e1807d83025d930018f818fcbc4",
+          "data": {
+            "canonical_url": "http://tt.omni.se/b9f013b52bdd3e1807d83025d930018f818fcbc4"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Belgien nedgraderades senast av Fitch 2012"
+          },
+          "source": "TT"
+        },
+        {
+          "url": "http://afp.omni.se/7d8ed7a2-87d1-4dab-9121-08811dd1f096",
+          "data": {
+            "canonical_url": "http://afp.omni.se/7d8ed7a2-87d1-4dab-9121-08811dd1f096"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Men framtiden för landets ekonomi ser stabil ut"
+          },
+          "source": "AFP"
+        },
+        {
+          "url": "https://www.fitchratings.com/site/pr/1017088",
+          "data": {
+            "canonical_url": "https://www.fitchratings.com/site/pr/1017088"
+          },
+          "type": "Url",
+          "title": {
+            "value": "Pressmeddelandet från Fitch"
+          },
+          "source": "www.fitchratings.com"
+        }
+      ],
+      "meta": {
+        "changes": {
+          "bumped": null,
+          "created": "2016-12-24T05:35:27Z",
+          "updated": "2016-12-24T13:22:19Z",
+          "published": "2016-12-24T05:53:05Z",
+          "first_published": "2016-12-24T05:53:05Z"
+        },
+        "version": 11,
+        "is_sticky": false,
+        "newsvalue": 6,
+        "is_deleted": false,
+        "machine_tags": {
+          "gender": "none"
+        },
+        "news_lifetime": 2,
+        "custom_properties": {}
+      },
+      "tags": [
+        {
+          "type": "location",
+          "title": "Belgien",
+          "topic_id": "ff53326d898ca64094b32d784bc7f89a923836f9"
+        },
+        {
+          "type": "location",
+          "title": "Europa",
+          "topic_id": "91b75d2efee2c7df812ee2b4f65db848d6f003d9"
+        },
+        {
+          "type": "descriptor",
+          "title": "Makroekonomi",
+          "topic_id": "21ffb6c80b98f6268c92ccaf21930a14a515018e"
+        }
+      ],
+      "type": "Article",
+      "category": {
+        "category_id": "38e9c8064a9b42ee894fd7da5867e8f7",
+        "title": "Ekonomi",
+        "slug": "ekonomi",
+        "large_threshold": 7,
+        "icon": {
+          "image_url": "https://storage.omni.se/category_icons/omni/icEkonomi.png",
+          "color": {
+            "red": 34,
+            "green": 34,
+            "blue": 34
+          }
+        },
+        "color": {
+          "red": 92,
+          "green": 142,
+          "blue": 129
+        },
+        "default": 0.66
+      },
+      "changes": {
+        "published": "2016-12-24T05:53:05Z",
+        "modified": "2016-12-24T13:22:19Z"
+      },
+      "main_text": {
+        "type": "Text",
+        "paragraphs": [
+          {
+            "text": {
+              "value": "Ratinginstitutet Fitch sänker Belgiens kreditbetyg med ett snäpp till AA-, på grund av landets statsskuld. Belgiens försök att stimulera tillväxten genom reformer, efter att den nya regeringen kom till makten 2014, har satt press på landets ekonomiska mål. Bruttoskulden kommer att uppgå till 107 procent av BNP 2016."
+            },
+            "block_type": "paragraph"
+          },
+          {
+            "text": {
+              "value": "– De ihållande problemen har lett till att omfattande minskningar av skulden först kommer att äga rum 2019, två år senare än man tidigare trott, enligt ett uttalande från Fitch."
+            },
+            "block_type": "paragraph"
+          }
+        ],
+        "vignette": {
+          "title": "Ekonomi",
+          "bullet_color": {
+            "red": 92,
+            "green": 142,
+            "blue": 129
+          }
+        }
+      },
+      "main_resource": {
+        "type": "Image",
+        "byline": {
+          "title": "NICOLAS MAETERLINCK / BELGA"
+        },
+        "caption": {
+          "value": "Bryssel."
+        },
+        "source_id": "BELGIUM-EU-POLITICS-ARCHI071617.jpg",
+        "image_asset": {
+          "id": "0c3ea638-1c2f-4c98-b7ff-732a6a142f8b",
+          "size": {
+            "width": 4400,
+            "height": 2933
+          }
+        },
+        "characteristics": {
+          "figure": false,
+          "sensitive": false
+        }
+      },
+      "teaser_layout": "Small",
+      "story_vignette": {
+        "ref": "category",
+        "id": "38e9c8064a9b42ee894fd7da5867e8f7",
+        "title": "Ekonomi"
+      }
+    }
+  ],
+  "topics": [
+    {
+      "topic_id": "5b31e02d-1d6e-44b4-8653-1cf092772fba",
+      "title": "AA Milne",
+      "type": "person",
+      "image": null
+    }
+  ]
+}

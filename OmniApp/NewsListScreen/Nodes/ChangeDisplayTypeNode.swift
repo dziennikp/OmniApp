@@ -14,7 +14,7 @@ class ChangeDisplayTypeNode: ASDisplayNode {
     override init() {
         super.init()
         setViewBlock {
-            UISegmentedControl(items: ["Articles", "Topics"])
+            UISegmentedControl(items: ["Articles".uppercased(), "Topics".uppercased()])
         }
         style.width = ASDimension(unit: .fraction, value: 1)
         style.height = ASDimension(unit: .points, value: 50)

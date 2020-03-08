@@ -54,7 +54,10 @@ class ListScreenViewController: ASViewController<ASDisplayNode> {
         return ASInsetLayoutSpec(insets: UIEdgeInsets(top: topOffset, left: 0, bottom: 0, right: 0), child: stack)
     }
     
-    init() {
+    private let store: Store<AppState>
+    
+    init(store: Store<AppState>) {
+        self.store = store
         super.init(node: ASDisplayNode())
         store.subscribe(self) {
             $0.select {
@@ -142,8 +145,10 @@ extension ListScreenViewController: ASTableDataSource,ASTableDelegate {
         searchBar.endEditing(true)
         switch currentDisplayType {
         case .articles:
+            guard news.articles.indices.contains(indexPath.row) else { return }
             store.dispatch(SelectedNewsAction.article(news.articles[indexPath.row]))
         case .topics:
+            guard news.topics.indices.contains(indexPath.row) else { return }
             store.dispatch(SelectedNewsAction.topic(news.topics[indexPath.row]))
         }
     }
@@ -159,7 +164,7 @@ extension ListScreenViewController: StoreSubscriber {
             news = NewsResponse.emptyNewsResponse()
             return
         }
-        tableNode.view.refreshControl?.beginRefreshing()
+        tableNode.refreshControl.beginRefreshing()
 
         state.results?.done {
             self.news = $0
@@ -167,7 +172,7 @@ extension ListScreenViewController: StoreSubscriber {
             self.news = NewsResponse.emptyNewsResponse()
             debugPrint(error)
         }.finally {
-            self.tableNode.view.refreshControl?.endRefreshing()
+            self.tableNode.refreshControl.endRefreshing()
         }
     }
 }

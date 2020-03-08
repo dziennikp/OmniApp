@@ -11,7 +11,7 @@ import XCTest
 import ReSwift
 class AppStateTests: XCTestCase {
     func testShouldReturnAppStateWhenStateIsNil() {
-        XCTAssertFalse(appReducer(action: FakeAction(), state: nil).routingState.newsSelected)
+        XCTAssertFalse(appReducer(action: FakeAction(), state: nil).selectedNewsState.newsSelected)
     }
 }
 

@@ -7,3 +7,9 @@
 //
 
 import Foundation
+import UIKit
+
+struct LabelStyle {
+    static let titleAttributes = [NSAttributedString.Key.font: UIFont.systemFont(ofSize: 18, weight: .bold)]
+    static let textAttributes = [NSAttributedString.Key.font: UIFont.systemFont(ofSize: 16, weight: .regular)]
+}

@@ -10,7 +10,7 @@ import Foundation
 import ReSwift
 
 func appReducer(action: Action, state: AppState?) -> AppState {
-    return AppState(routingState: routingReducer(action: action, state: state?.routingState),
+    return AppState(selectedNewsState: selectedNewsReducer(action: action, state: state?.selectedNewsState),
                     searchState: newsListReducer(action, state?.searchState)
     )
 }
