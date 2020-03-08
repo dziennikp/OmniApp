@@ -41,3 +41,4 @@ App runs on iPad and iPhones (with/without Notch) with iOS 13 and above.
 - Using more `Dependency Injections`
 - Providing `ViewModel` and/or `Coordinator` pattern in order to reduce logic in `ViewControllers`
 - Changing `ListScreenViewController` to some generic `ViewController` based on `DataSource` and `CellType`, to remove all of switches over `displayType`
+- Add CI - Fastlane gym and scan 
